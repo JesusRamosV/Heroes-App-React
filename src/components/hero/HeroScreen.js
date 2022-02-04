@@ -1,7 +1,7 @@
 import React, { useMemo } from 'react';
 import { Navigate, useNavigate, useParams } from 'react-router-dom';
+import { heroImages } from '../../helpers/heroImages';
 import { getHeroesById } from '../../selectors/getHeroesById';
-import { HeroList } from './HeroList';
 
 
 

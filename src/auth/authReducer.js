@@ -23,7 +23,6 @@ export const authReducer = (state = {}, action) => {
                   logged: false  
                 }
         
-    debugger;
         default:
             return state;
     }

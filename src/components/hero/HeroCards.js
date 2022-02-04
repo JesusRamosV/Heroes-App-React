@@ -4,10 +4,10 @@ import { heroImages } from '../../helpers/heroImages';
 
 
 
+
 export const HeroCards = ({
     id,
     superhero,
-    publisher,
     alter_ego,
     first_appearance,
     characters
